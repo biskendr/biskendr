@@ -40,8 +40,8 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=biskendr&theme=dark&
 </div>
 </td>
 <td valign="center">
-<img align="center" style="width: 500px"
-src="https://github-widgetbox.vercel.app/api/skills?languages=HTML5,CSS3,JS,TS,SASS,JSON,Markdown&frameworks=React,Next,Bootstrap,TailwindCSS&tools=git,docker,npm,vercel,nodejs,prettier&libraries=babel,jquery&software=windows,vscode&theme=darkmode&includeNames=true" />
+<img align="center" style="width: 600px"
+src="https://uncovered-branched-poultry.glitch.me/api/skills?languages=HTML5,CSS3,JS,EcmaScript,TS,SASS,JSON&frameworks=React,Next,Bootstrap,TailwindCSS&tools=git,docker,npm,vercel,netlify,vite,nodejs&libraries=MaterialU,babel,jquery&software=vscode,prettier,Discord,Slack&theme=darkmode&includeNames=true" />
 </td>
 </tr>
 </table>
