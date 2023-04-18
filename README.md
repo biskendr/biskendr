@@ -32,7 +32,7 @@ I'm interested in Frontend and I'm research on Blockchain and Web3 technologies.
 <td valign="center">
 <div align="center">
 <img align="center" style="width: 400px"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=biskendr&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=biskendr&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 <br />
 <br />
 <img align="center" style="width: 400px"
